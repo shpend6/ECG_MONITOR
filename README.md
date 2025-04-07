@@ -126,14 +126,6 @@ Options:
 
 5. Check the log files in the specified log directory for detailed information.
 
-## Troubleshooting Sound
-
-If you don't hear any sounds:
-
-1. Test the sound functionality: `make test-sound`
-2. Check if your terminal supports the console bell (`\a`) 
-3. Make sure your system volume is turned up
-4. On Linux, you may need to install sound utilities: `sudo apt-get install pulseaudio-utils alsa-utils`
 
 ## Running Tests
 
