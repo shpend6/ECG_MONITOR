@@ -1,0 +1,85 @@
+2025/04/08 13:09:22 NORMAL: Heart rate: 83 BPM, RR Interval: 0.67s at 13:09:22
+2025/04/08 13:09:23 NORMAL: Heart rate: 76 BPM, RR Interval: 0.77s at 13:09:23
+2025/04/08 13:09:24 NORMAL: Heart rate: 77 BPM, RR Interval: 0.78s at 13:09:24
+2025/04/08 13:09:25 NORMAL: Heart rate: 84 BPM, RR Interval: 0.72s at 13:09:25
+2025/04/08 13:09:26 NORMAL: Heart rate: 78 BPM, RR Interval: 0.77s at 13:09:26
+2025/04/08 13:09:27 ALERT: arrhythmia detected - Severity: severe, Heart rate: 132 BPM at 13:09:27 - Irregular heart rhythm detected
+2025/04/08 13:09:28 ALERT: arrhythmia detected - Severity: severe, Heart rate: 76 BPM at 13:09:28 - Irregular heart rhythm detected
+2025/04/08 13:09:29 NORMAL: Heart rate: 81 BPM, RR Interval: 0.74s at 13:09:29
+2025/04/08 13:09:30 ALERT: arrhythmia detected - Severity: mild, Heart rate: 68 BPM at 13:09:30 - Irregular heart rhythm detected
+2025/04/08 13:09:31 NORMAL: Heart rate: 83 BPM, RR Interval: 0.73s at 13:09:31
+2025/04/08 13:09:32 ALERT: arrhythmia detected - Severity: mild, Heart rate: 74 BPM at 13:09:32 - Irregular heart rhythm detected
+2025/04/08 13:09:33 NORMAL: Heart rate: 71 BPM, RR Interval: 0.82s at 13:09:33
+2025/04/08 13:09:34 NORMAL: Heart rate: 71 BPM, RR Interval: 0.81s at 13:09:34
+2025/04/08 13:09:35 NORMAL: Heart rate: 80 BPM, RR Interval: 0.74s at 13:09:35
+2025/04/08 13:09:36 ALERT: arrhythmia detected - Severity: mild, Heart rate: 72 BPM at 13:09:36 - Irregular heart rhythm detected
+2025/04/08 13:09:37 NORMAL: Heart rate: 80 BPM, RR Interval: 0.76s at 13:09:37
+2025/04/08 13:09:38 NORMAL: Heart rate: 76 BPM, RR Interval: 0.83s at 13:09:38
+2025/04/08 13:09:39 NORMAL: Heart rate: 78 BPM, RR Interval: 0.78s at 13:09:39
+2025/04/08 13:09:40 NORMAL: Heart rate: 71 BPM, RR Interval: 0.85s at 13:09:40
+2025/04/08 13:09:41 NORMAL: Heart rate: 74 BPM, RR Interval: 0.82s at 13:09:41
+2025/04/08 13:09:42 ALERT: arrhythmia detected - Severity: severe, Heart rate: 49 BPM at 13:09:42 - Irregular heart rhythm detected
+2025/04/08 13:09:43 ALERT: arrhythmia detected - Severity: severe, Heart rate: 74 BPM at 13:09:43 - Irregular heart rhythm detected
+2025/04/08 13:09:44 NORMAL: Heart rate: 83 BPM, RR Interval: 0.73s at 13:09:44
+2025/04/08 13:09:45 NORMAL: Heart rate: 74 BPM, RR Interval: 0.80s at 13:09:45
+2025/04/08 13:09:46 NORMAL: Heart rate: 82 BPM, RR Interval: 0.76s at 13:09:46
+2025/04/08 13:09:47 NORMAL: Heart rate: 75 BPM, RR Interval: 0.86s at 13:09:47
+2025/04/08 13:09:48 NORMAL: Heart rate: 75 BPM, RR Interval: 0.81s at 13:09:48
+2025/04/08 13:09:49 NORMAL: Heart rate: 72 BPM, RR Interval: 0.84s at 13:09:49
+2025/04/08 13:09:50 NORMAL: Heart rate: 68 BPM, RR Interval: 0.84s at 13:09:50
+2025/04/08 13:09:51 NORMAL: Heart rate: 68 BPM, RR Interval: 0.85s at 13:09:51
+2025/04/08 13:09:52 ALERT: arrhythmia detected - Severity: severe, Heart rate: 133 BPM at 13:09:52 - Irregular heart rhythm detected
+2025/04/08 13:09:53 ALERT: arrhythmia detected - Severity: severe, Heart rate: 75 BPM at 13:09:53 - Irregular heart rhythm detected
+2025/04/08 13:09:54 NORMAL: Heart rate: 83 BPM, RR Interval: 0.70s at 13:09:54
+2025/04/08 13:09:55 NORMAL: Heart rate: 77 BPM, RR Interval: 0.77s at 13:09:55
+2025/04/08 13:09:56 NORMAL: Heart rate: 80 BPM, RR Interval: 0.74s at 13:09:56
+2025/04/08 13:09:57 ALERT: arrhythmia detected - Severity: mild, Heart rate: 101 BPM at 13:09:57 - Irregular heart rhythm detected
+2025/04/08 13:09:58 ALERT: arrhythmia detected - Severity: severe, Heart rate: 70 BPM at 13:09:58 - Irregular heart rhythm detected
+2025/04/08 13:09:59 NORMAL: Heart rate: 73 BPM, RR Interval: 0.84s at 13:09:59
+2025/04/08 13:10:00 NORMAL: Heart rate: 78 BPM, RR Interval: 0.80s at 13:10:00
+2025/04/08 13:10:01 NORMAL: Heart rate: 83 BPM, RR Interval: 0.72s at 13:10:01
+2025/04/08 13:10:02 NORMAL: Heart rate: 73 BPM, RR Interval: 0.74s at 13:10:02
+2025/04/08 13:10:03 NORMAL: Heart rate: 73 BPM, RR Interval: 0.83s at 13:10:03
+2025/04/08 13:10:04 NORMAL: Heart rate: 79 BPM, RR Interval: 0.73s at 13:10:04
+2025/04/08 13:10:05 NORMAL: Heart rate: 82 BPM, RR Interval: 0.73s at 13:10:05
+2025/04/08 13:10:06 NORMAL: Heart rate: 73 BPM, RR Interval: 0.83s at 13:10:06
+2025/04/08 13:10:07 ALERT: arrhythmia detected - Severity: severe, Heart rate: 42 BPM at 13:10:07 - Irregular heart rhythm detected
+2025/04/08 13:10:08 ALERT: arrhythmia detected - Severity: severe, Heart rate: 73 BPM at 13:10:08 - Irregular heart rhythm detected
+2025/04/08 13:10:09 NORMAL: Heart rate: 71 BPM, RR Interval: 0.83s at 13:10:09
+2025/04/08 13:10:10 NORMAL: Heart rate: 75 BPM, RR Interval: 0.82s at 13:10:10
+2025/04/08 13:10:11 NORMAL: Heart rate: 79 BPM, RR Interval: 0.75s at 13:10:11
+2025/04/08 13:10:12 ALERT: arrhythmia detected - Severity: severe, Heart rate: 46 BPM at 13:10:12 - Irregular heart rhythm detected
+2025/04/08 13:10:13 ALERT: arrhythmia detected - Severity: severe, Heart rate: 73 BPM at 13:10:13 - Irregular heart rhythm detected
+2025/04/08 13:10:14 NORMAL: Heart rate: 75 BPM, RR Interval: 0.81s at 13:10:14
+2025/04/08 13:10:15 NORMAL: Heart rate: 72 BPM, RR Interval: 0.84s at 13:10:15
+2025/04/08 13:10:16 NORMAL: Heart rate: 82 BPM, RR Interval: 0.74s at 13:10:16
+2025/04/08 13:10:17 NORMAL: Heart rate: 77 BPM, RR Interval: 0.75s at 13:10:17
+2025/04/08 13:10:18 NORMAL: Heart rate: 76 BPM, RR Interval: 0.80s at 13:10:18
+2025/04/08 13:10:19 NORMAL: Heart rate: 82 BPM, RR Interval: 0.71s at 13:10:19
+2025/04/08 13:10:20 NORMAL: Heart rate: 79 BPM, RR Interval: 0.79s at 13:10:20
+2025/04/08 13:10:21 NORMAL: Heart rate: 79 BPM, RR Interval: 0.75s at 13:10:21
+2025/04/08 13:10:22 ALERT: arrhythmia detected - Severity: mild, Heart rate: 75 BPM at 13:10:22 - Irregular heart rhythm detected
+2025/04/08 13:10:23 NORMAL: Heart rate: 81 BPM, RR Interval: 0.75s at 13:10:23
+2025/04/08 13:10:24 ALERT: arrhythmia detected - Severity: mild, Heart rate: 68 BPM at 13:10:24 - Irregular heart rhythm detected
+2025/04/08 13:10:25 NORMAL: Heart rate: 76 BPM, RR Interval: 0.78s at 13:10:25
+2025/04/08 13:10:26 NORMAL: Heart rate: 83 BPM, RR Interval: 0.74s at 13:10:26
+2025/04/08 13:10:27 NORMAL: Heart rate: 81 BPM, RR Interval: 0.69s at 13:10:27
+2025/04/08 13:10:28 ALERT: arrhythmia detected - Severity: moderate, Heart rate: 70 BPM at 13:10:28 - Irregular heart rhythm detected
+2025/04/08 13:10:29 ALERT: arrhythmia detected - Severity: mild, Heart rate: 82 BPM at 13:10:29 - Irregular heart rhythm detected
+2025/04/08 13:10:30 ALERT: arrhythmia detected - Severity: mild, Heart rate: 71 BPM at 13:10:30 - Irregular heart rhythm detected
+2025/04/08 13:10:31 NORMAL: Heart rate: 74 BPM, RR Interval: 0.83s at 13:10:31
+2025/04/08 13:10:32 NORMAL: Heart rate: 72 BPM, RR Interval: 0.85s at 13:10:32
+2025/04/08 13:10:33 NORMAL: Heart rate: 78 BPM, RR Interval: 0.77s at 13:10:33
+2025/04/08 13:10:34 NORMAL: Heart rate: 83 BPM, RR Interval: 0.73s at 13:10:34
+2025/04/08 13:10:35 NORMAL: Heart rate: 75 BPM, RR Interval: 0.80s at 13:10:35
+2025/04/08 13:10:36 NORMAL: Heart rate: 76 BPM, RR Interval: 0.79s at 13:10:36
+2025/04/08 13:10:37 ALERT: arrhythmia detected - Severity: severe, Heart rate: 48 BPM at 13:10:37 - Irregular heart rhythm detected
+2025/04/08 13:10:38 ALERT: arrhythmia detected - Severity: severe, Heart rate: 76 BPM at 13:10:38 - Irregular heart rhythm detected
+2025/04/08 13:10:39 NORMAL: Heart rate: 70 BPM, RR Interval: 0.85s at 13:10:39
+2025/04/08 13:10:40 NORMAL: Heart rate: 82 BPM, RR Interval: 0.76s at 13:10:40
+2025/04/08 13:10:41 NORMAL: Heart rate: 76 BPM, RR Interval: 0.77s at 13:10:41
+2025/04/08 13:10:42 NORMAL: Heart rate: 84 BPM, RR Interval: 0.68s at 13:10:42
+2025/04/08 13:10:43 ALERT: arrhythmia detected - Severity: mild, Heart rate: 76 BPM at 13:10:43 - Irregular heart rhythm detected
+2025/04/08 13:10:44 NORMAL: Heart rate: 76 BPM, RR Interval: 0.79s at 13:10:44
+2025/04/08 13:10:45 NORMAL: Heart rate: 81 BPM, RR Interval: 0.71s at 13:10:45
+2025/04/08 13:10:46 NORMAL: Heart rate: 77 BPM, RR Interval: 0.81s at 13:10:46

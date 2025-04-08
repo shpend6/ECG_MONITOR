@@ -70,8 +70,5 @@ func main() {
 	}
 
 	fmt.Println("\nTest completed. Did you hear any sounds?")
-	fmt.Println("If no sounds were heard, please check if:")
-	fmt.Println("1. Your system has sound enabled")
-	fmt.Println("2. Your terminal supports the console bell (\\a)")
-	fmt.Println("3. You have sound files/players installed (paplay, aplay, etc.)")
+
 }

@@ -84,7 +84,7 @@ func generateECGData(heartbeats int) model.ECGData {
 
 	baseRRInterval := 60.0 / float64(baseHeartRate)
 
-	if *simulateIrregular && (heartbeats%30 == 0) {
+	if *simulateIrregular && (heartbeats%5 == 0) {
 		switch rand.Intn(3) {
 		case 0: //tachycardia
 			heartRate = 100 + rand.Intn(40)

@@ -19,7 +19,7 @@ func NewDetector() *Detector {
 func (d *Detector) AnalyzeECGData(data model.ECGData) *model.HeartCondition {
 	var condition *model.HeartCondition
 
-	// Check for tachycardia (high heart rate)
+	// FIRST check for tachycardia (high heart rate)
 	if data.HeartRate > model.TachycardiaThreshold {
 		severity := "mild"
 		if data.HeartRate > model.TachycardiaThreshold+20 {
@@ -36,8 +36,14 @@ func (d *Detector) AnalyzeECGData(data model.ECGData) *model.HeartCondition {
 			Timestamp:   data.Timestamp,
 			Description: "Abnormally high heart rate detected",
 		}
+
+		// Save state and return immediately - don't check for arrhythmia
+		d.lastRRInterval = data.RRInterval
+		d.lastTimestamp = data.Timestamp
+		return condition
 	}
 
+	// THEN check for bradycardia (low heart rate)
 	if data.HeartRate < model.BradycardiaThreshold {
 		severity := "mild"
 		if data.HeartRate < model.BradycardiaThreshold-10 {
@@ -54,8 +60,14 @@ func (d *Detector) AnalyzeECGData(data model.ECGData) *model.HeartCondition {
 			Timestamp:   data.Timestamp,
 			Description: "Abnormally low heart rate detected",
 		}
+
+		// Save state and return immediately - don't check for arrhythmia
+		d.lastRRInterval = data.RRInterval
+		d.lastTimestamp = data.Timestamp
+		return condition
 	}
 
+	// FINALLY check for arrhythmia (only if not tachycardia or bradycardia)
 	if d.lastRRInterval > 0 && !d.lastTimestamp.IsZero() {
 		variation := math.Abs(data.RRInterval-d.lastRRInterval) / d.lastRRInterval
 
